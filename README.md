@@ -74,4 +74,18 @@ attach_policy_to_group "DevOpsManagers"
 
 ```
 
+<ins>Explanation of Code</ins>
+
+
+•	Functions: The script defines functions for creating users, groups, adding users to groups, and attaching policies to groups.   
+
+•	User Creation: For each user, we create a username, password, and access key.   
+
+•	Group Creation: We create groups like "DevOpsEngineers" and "DevOpsManagers."   
+
+•	User Assignment: We add users to their respective groups.   
+
+•	Policy Attachment: We attach appropriate IAM policies to the groups.
+
+
 
