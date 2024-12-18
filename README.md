@@ -7,7 +7,9 @@ This is a script for fictitious company called CloudOps Solutions, using AWS Clo
 Steps:
 
 •	Create IAM Users: generate unique usernames and passwords for each DevOps team member
+
 •	Create IAM Groups: Define groups like e.g "DevOps Engineers" and "DevOps Managers" to organise users based on their roles.
+
 •	Assign Permissions to Groups: Attach specific IAM policies to these groups, granting them necessary permissions to perform their tasks (e.g., EC2 access, S3 access).
 
 
